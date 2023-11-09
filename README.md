@@ -4,6 +4,6 @@
 
 ### RESPONSIVENESS: have 2 breakpoints on styles/styles.css
 
-### RESPONSIVE IMAGES: logo images are responsive, see all htmls
+### RESPONSIVE IMAGES: logo images are responsive, see logos in all htmls
 
 ### WEB FONT: using google font Oswald in styles/styles.css
